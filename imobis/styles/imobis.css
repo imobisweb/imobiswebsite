@@ -1,0 +1,123 @@
+* {padding: 0; margin: 0;}
+html { overflow-y: scroll;}
+
+body {
+  font-family: Arial;
+}
+
+.header {
+    background-color: white;
+    min-width: auto;
+    color: #1B24AD;
+    font-size: 25px;
+    font-family: arial;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+img {
+    width: 25%;
+}
+
+.vl {
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+
+hr {
+    color: lightgray;
+    border: 1px solid;
+}
+
+.main-body {
+    display: flex;
+    width: auto;
+    height: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-weight: bold;
+}
+
+.left-body {
+    background-color: #1B24AD;
+    color: white;
+    width: 50%;
+    margin-right: 5px;
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.p-work {
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+.right-body {
+    background-color: #1B24AD;;
+    color: white;
+    width: 50%;
+    margin-left: 5px;
+    border-radius: 25px;
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h3 {
+    font-size: 27px;
+    padding-bottom: 12px;
+}
+
+.available {
+    font-size: 25px;
+    padding-top: 70px;
+    padding-bottom: 10px;
+}
+
+.contact {
+    font-size: 20px;
+    background-color: white;
+    color: #1B24AD;
+    width: 50%;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.p-team {
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 50px;
+    text-align: left;
+}
+
+.vl-footer {
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    background-color: white;
+    min-width: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+
